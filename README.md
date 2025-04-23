@@ -14,9 +14,9 @@ Recently, I have been expanding my knowledge in software development through Dev
 
 Connect with me:
 
-<a href="https://www.instagram.com/eng.brunoalvarenga"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536479.png" height="20" width="20" /> 
+<a href="https://www.instagram.com/eng.brunoalvarenga" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536479.png" height="20" width="20" /> 
 </a>
-<a href="https://www.linkedin.com/in/brunoaasilva/"><img src="https://cdn-icons-png.flaticon.com/128/61/61109.png" alt="logo-linkedin" height="20" width="20" /> 
+<a href="https://www.linkedin.com/in/brunoaasilva/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/61/61109.png" alt="logo-linkedin" height="20" width="20" /> 
 </a>
 
 
